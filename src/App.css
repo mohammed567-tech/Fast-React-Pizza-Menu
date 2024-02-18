@@ -1,0 +1,20 @@
+
+.header{
+  background: hsla(268, 44%, 35%, 1);
+
+  background: linear-gradient(90deg, hsla(268, 44%, 35%, 1) 9%, hsla(285, 92%, 9%, 1) 100%);
+
+  background: -moz-linear-gradient(90deg, hsla(268, 44%, 35%, 1) 9%, hsla(285, 92%, 9%, 1) 100%);
+
+  background: -webkit-linear-gradient(90deg, hsla(268, 44%, 35%, 1) 9%, hsla(285, 92%, 9%, 1) 100%);
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#573280", endColorstr="#23022E", GradientType=1 );  
+
+
+  /* display: flex;
+  flex-direction: column ;
+  justify-content:center; */
+}
+/* .section-of-header{
+ min-width :1280px
+} */

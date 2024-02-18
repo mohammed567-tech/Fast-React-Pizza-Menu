@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'hacensamra';
+    src: local('hacensamra'), url('/public/fonts/Hacen\ Samra.ttf') format('ttf');
+  }
+  
+  body {
+    font-family: 'hacensamra';
+    /* font-weight: 400; */
+  }
+  
